@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c0c3cac4.css",
+    "main.js": "/static/js/main.14640253.js",
+    "static/js/787.3503cf78.chunk.js": "/static/js/787.3503cf78.chunk.js",
+    "static/media/Portfolio3.jpg": "/static/media/Portfolio3.599c314adb7ea548be9e.jpg",
+    "static/media/Portfolio1.jpg": "/static/media/Portfolio1.a774879ce2e843fc5a2c.jpg",
+    "static/media/IMG_6902.JPG": "/static/media/IMG_6902.b02f15a0801365600b60.JPG",
+    "static/media/img3.jpg": "/static/media/img3.05b8b8d05647e4437d56.jpg",
+    "static/media/img4.jpg": "/static/media/img4.e6a280dfd8b73fc5db23.jpg",
+    "static/media/portfolio4.png": "/static/media/portfolio4.553c0c850f1bfb9f00b6.png",
+    "static/media/IMG_7336-removebg-preview.png": "/static/media/IMG_7336-removebg-preview.907090c07c57737b1bbf.png",
+    "static/media/react.png": "/static/media/react.6bcffb56bd0efaa47767.png",
+    "static/media/img2.jpg": "/static/media/img2.e1969a79eb2510ef6f22.jpg",
+    "static/media/2560px-Qt_logo_2016.svg.png": "/static/media/2560px-Qt_logo_2016.svg.49c2dbd0f37c0c26f63b.png",
+    "static/media/362938525___n.jpg": "/static/media/362938525_1788438208264332_6360688560440111857_n.56424ab921274b32d8b9.jpg",
+    "static/media/img1.jpg": "/static/media/img1.3d57633676a8b8f48cd5.jpg",
+    "static/media/portfolio2.png": "/static/media/portfolio2.f14e81b302e2b91837a2.png",
+    "static/media/logo1.png": "/static/media/logo1.3b2bf1053c5a9ed677ab.png",
+    "static/media/flutter.jpg": "/static/media/flutter.92a91a3567294727c1fb.jpg",
+    "index.html": "/index.html",
+    "main.c0c3cac4.css.map": "/static/css/main.c0c3cac4.css.map",
+    "main.14640253.js.map": "/static/js/main.14640253.js.map",
+    "787.3503cf78.chunk.js.map": "/static/js/787.3503cf78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0c3cac4.css",
+    "static/js/main.14640253.js"
+  ]
+}
